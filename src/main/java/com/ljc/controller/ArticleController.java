@@ -48,7 +48,7 @@ public class ArticleController {
 	
 	
 	/**
-	 * 获取帖子分页数据
+	 * 获取帖子分页 数据
 	 * @return
 	 */
 	@RequestMapping("/list/{currentPage}")
